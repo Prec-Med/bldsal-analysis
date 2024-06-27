@@ -1,0 +1,3 @@
+[submodule "starfish"]
+	path = starfish
+	url = https://github.com/Prec-Med/starfish
